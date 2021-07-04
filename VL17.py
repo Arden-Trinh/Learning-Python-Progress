@@ -7,4 +7,4 @@ def demsouoc(a):
     return dem
 a=int(input())
 print(demsouoc(a))
-
+#first time using def#
