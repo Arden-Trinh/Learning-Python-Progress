@@ -1,0 +1,4 @@
+import math
+a=int(input())
+pi=math.pi
+print("{:.3f}".format((a*a*pi)/2))
